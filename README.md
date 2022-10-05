@@ -13,7 +13,7 @@ Toy projects lists
 - [TextCNN](https://github.com/XqFeng-Josie/TextCNN):CNN for text classification
 - [TensorFlowPractice](https://github.com/XqFeng-Josie/Tensorflow):code for TensorFlow实战Google深度学习框架
 - [Text-Classification](https://github.com/XqFeng-Josie/Text-Classification):machine learning for text classification
-- [Recommender-System]https://github.com/XqFeng-Josie/Recommender-System-RS:some practice for RS (e.g. deecamp2018)
+- [Recommender-System](https://github.com/XqFeng-Josie/Recommender-System-RS):some practice for RS (e.g. deecamp2018)
 - [DeepLearning](https://github.com/XqFeng-Josie/Deep_learning):some practice for DL
 
 
