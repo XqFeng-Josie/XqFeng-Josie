@@ -7,6 +7,7 @@ README.md as first!!!
 - 📫 Gmail: fengxqinx@gmail.com
 - 🐦 twitter: @xiaoqinfengx
 - 💬 My C.V. [CV](https://xqfeng-josie.github.io/resume/xiaoqin_cv.pdf)
+- ✍️ Google Scholar:[Paperlists](https://scholar.google.com/citations?hl=zh-CN&user=-rW26N0AAAAJ)
 
 Toy projects lists
 
