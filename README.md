@@ -3,7 +3,7 @@
 - 🌱 I’m  a Senior Speech Algorithm Engineer at Mobvoi AI Lab.
 - 👀  My working area is text-to-speech(TTS), in which I primarily
 focus on NLP(TN/G2P/Prosody/Stress/Style/Emotion), model optimization(NLP/TTS), Emotional TTS, and online server application,
-all of this based on cross-lingual(English, Mandarin, etc.).
+all of this based on multi-language(English, Mandarin, etc.).
 - 💞️ I’m applying Ph.D. in NLP/knowledge/Speech/Data, my research interests lie in natural language processing (NLP), knowledge acquisition, and representation, and I have great inspiration for the world's information network.
 - 📫 Gmail: fengxqinx@gmail.com
 - 🐦 twitter: @xiaoqinfengx
