@@ -1,29 +1,34 @@
+## 👋 Hi there, I'm Xiaoqin Feng!
 
-- 👋 Hi, xiaoqin is me!! My biggest motivation is using the world’s multi-modal information to improve our lives.
-- 🌱 I’m  a Senior Speech Algorithm Engineer at Mobvoi AI Lab.
-- 👀  My working area is text-to-speech(TTS), in which I primarily
-focus on NLP(TN/G2P/Prosody/Stress/Style/Emotion), model optimization(NLP/TTS), Emotional TTS, and online server application,
-all of this based on multi-language(English, Mandarin, etc.).
-- 💞️ I’m applying Ph.D. in NLP/knowledge/Speech/Data, my research interests lie in natural language processing (NLP), knowledge acquisition, and representation, and I have great inspiration for the world's information network.
-- 📫 Gmail: fengxqinx@gmail.com
-- 🐦 twitter: @xiaoqinfengx
-- 💬 My C.V. [CV](https://xqfeng-josie.github.io/resume/xiaoqin_cv.pdf)
-- ✍️ Google Scholar:[Paperlists](https://scholar.google.com/citations?hl=zh-CN&user=-rW26N0AAAAJ)
-- 🏠 Homepage at [xqfeng-josie.github.io](https://xqfeng-josie.github.io/)
+I’m deeply motivated by the potential of **multi-modal information** to improve our lives. My mission is to **bridge real-world needs with advanced AI systems**.
 
+* 🎓 I'm currently a **Master’s student in Artificial Intelligence** at the **University of Southern California (USC)**.
+* 💼 Previously, I spent **six years at Mobvoi**, where I focused on building AI-powered applications in speech, dialogue, and intelligent agents.
+* 🔬 My current research interests lie in **AI agent alignment**, especially using **multimodal reasoning** and **adaptive dialogue strategies** to ensure large agent systems better understand and serve human goals.
+* 📚 I’m committed to advancing the field through **rigorous study, impactful research, and collaborative innovation**.
 
-Toy projects lists
+---
 
-- [TextCNN](https://github.com/XqFeng-Josie/TextCNN):CNN for text classification
-- [TensorFlowPractice](https://github.com/XqFeng-Josie/Tensorflow):code for TensorFlow实战Google深度学习框架
-- [Text-Classification](https://github.com/XqFeng-Josie/Text-Classification):machine learning for text classification
-- [Recommender-System](https://github.com/XqFeng-Josie/Recommender-System-RS):some practice for RS (e.g. deecamp2018)
-- [DeepLearning](https://github.com/XqFeng-Josie/Deep_learning):some practice for DL
-- [multi-granularity knowledge](https://xqfeng-josie.github.io/stress/): Demo for stress prediction.
+## 🔍 Looking for Collaborations
 
+I'm actively seeking **collaborative opportunities** in areas related to:
 
+* AI agents (robotics, applications, and tools)
+* Multimodal data processing
+* Prompt engineering and evaluation methods
+* Human-centered AI system design
 
+If you’re working in these areas or interested in a potential collaboration, feel free to connect!
 
+---
 
+## 📫 Connect with Me
 
+* ✉️ Email: [fengxqinx@gmail.com](mailto:fengxqinx@gmail.com)
+* 🐦 Twitter: [@xiaoqinfengx](https://twitter.com/xiaoqinfengx)
+* 🧾 [Curriculum Vitae (CV)](https://xqfeng-josie.github.io/resume/xiaoqin_cv.pdf)
+* 📄 [Google Scholar](https://scholar.google.com/citations?hl=zh-CN&user=-rW26N0AAAAJ)
+* 🏡 [Personal Website](https://xqfeng-josie.github.io/)
+
+---
 
