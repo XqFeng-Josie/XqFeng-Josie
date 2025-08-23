@@ -3,9 +3,9 @@
 I’m deeply motivated by the potential of **multi-modal information** to improve our lives. My mission is to **bridge real-world needs with advanced AI systems**.
 
 * 🎓 I'm currently a **Master’s student in Artificial Intelligence** at the **University of Southern California (USC)**.
-* 💼 Previously, I spent **six years at Mobvoi**, where I focused on building AI-powered applications in speech, data, and intelligent agents.
-* 🔬 My research interests focus on applying AI to real-world scenarios, particularly in large language model (LLM) agents, robotics, speech processing, data engineering, and evaluation/application. I have gained hands-on industry experience in these areas.
-* 📚 I’m committed to advancing the field through **rigorous study, impactful research, and collaborative innovation**.
+* 💼 Previously, I spent **6 years at Mobvoi**, where I focused on building AI-powered applications.
+* 🔬 My research interests Generative AI, LLM-powered agents, Human-AI Collaboration, and AI for Science. My work emphasizes agents, speech, data, evaluation, and real-world applications. I have gained hands-on industry experience in these areas.
+* 📚 I’m committed to advancing artificial intelligence through **rigorous research and practical innovation**.
 
 ---
 
@@ -13,10 +13,11 @@ I’m deeply motivated by the potential of **multi-modal information** to improv
 
 I'm actively seeking **collaborative opportunities** in areas related to:
 
-* AI agents (robotics, applications, and tools)
+* Generative AI (data, applications)
+* Human-centered AI system design
+* LLM-powered agents (society, human-being and tools)
 * Multimodal data engineering
 * Prompt engineering and evaluation methods
-* Human-centered AI system design
 
 If you’re working in these areas or interested in a potential collaboration, feel free to connect!
 
